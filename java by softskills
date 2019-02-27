@@ -1,0 +1,7 @@
+Java is a object  oriented language.
+Data types are 2 types :Integer type(Byte,Short,Integer,Long) Floating type(Float,Double)
+along with this Character datatype(16 bits -eg: 'a' , '\u001y')  and  Boolean(1 bit   -eg: TRUE,FALSE)
+Variables are 3 types :-
+local variables : a variable defined within a bloack or method or constructer.
+static variables : decleard using a static keyword within a class outside any method constructer or block 
+instance variables : These are non-static variables and are decleard in a class outside any method constructer or block.
