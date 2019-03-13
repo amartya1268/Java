@@ -1,7 +1,12 @@
 Java is a object  oriented language.
-Data types are 2 types :Integer type(Byte,Short,Integer,Long) Floating type(Float,Double)
+There r 2 data-types :Integer type(Byte,Short,Integer,Long) Floating type(Float,Double)
 along with this Character datatype(16 bits -eg: 'a' , '\u001y')  and  Boolean(1 bit   -eg: TRUE,FALSE)
 Variables are 3 types :-
 local variables : a variable defined within a bloack or method or constructer.
 static variables : decleard using a static keyword within a class outside any method constructer or block 
 instance variables : These are non-static variables and are decleard in a class outside any method constructer or block.
+
+why dynamic arrays in Java are slower than standard arrays in java ?
+Normal arrays that are used in Java are of fixed length. Once an array is created in Java its size cannot be increased 
+or decreased. Array lists are dynamic and can be created with an initial size and later the size can be increased if more 
+data is added and also it can be decreased if any data is removed.
